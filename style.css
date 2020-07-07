@@ -18,3 +18,34 @@
    border-radius: 8px;
    border: none;
 }
+.c_1_bg{
+    background-color: orange;
+}
+.c_2_bg{
+    background-color: orchid;
+}
+.c_3_bg{
+    background-color: blue;
+}
+.c_1_bg, .c_2_bg, .c_3_bg{
+    padding:10px 30px;
+    border-radius: 10px;
+}
+.categories h1{
+     color:white;
+}
+.categories img{
+ width:100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#subscribe{
+    height:300px;
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+}
